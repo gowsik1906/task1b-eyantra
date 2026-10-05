@@ -1,0 +1,395 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/simulation/modelsim
+vadder
+Z1 !s110 1789497058
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I:DRjEg;`m6h2g_Qc;gEmX0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1789484217
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/adder.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/adder.v
+!i122 13
+L0 4 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1789497058.000000
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/adder.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components
+Z9 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 g20L9:U0SV[FIPQRdfNfG2
+R2
+II58LlkOl5O]Y^R8^7DboL2
+R3
+R0
+R4
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/alu.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/alu.v
+!i122 12
+L0 4 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/alu.v|
+!i113 1
+R7
+R8
+R9
+valu_decoder
+R1
+!i10b 1
+!s100 onj5JeIA2`6W>Hm540:3H2
+R2
+IknV9_EZ^@o:>9MRSHSUhI0
+R3
+R0
+R4
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/alu_decoder.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/alu_decoder.v
+!i122 11
+L0 4 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/alu_decoder.v|
+!i113 1
+R7
+R8
+R9
+vcontroller
+R1
+!i10b 1
+!s100 44JeQVFdakPeGldPS51m93
+R2
+IWl0Z2<Sz]WXf<fG1ghUeh2
+R3
+R0
+w1789486978
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/controller.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/controller.v
+!i122 10
+L0 4 25
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/controller.v|
+!i113 1
+R7
+R8
+R9
+vdata_mem
+Z10 !s110 1789497057
+!i10b 1
+!s100 _^e]JLL9HN_``4^[2XCYF3
+R2
+ITe?BDJ5XcHM]X6Pgdaia73
+R3
+R0
+R4
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/data_mem.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/data_mem.v
+!i122 2
+L0 4 19
+R5
+r1
+!s85 0
+31
+Z11 !s108 1789497057.000000
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/data_mem.v|
+!i113 1
+R7
+Z12 !s92 -vlog01compat -work work +incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code
+R9
+vdatapath
+R1
+!i10b 1
+!s100 7zYRnmAUPf5ZJ5zKb1gR?0
+R2
+IYO=K7gb^XDMh<]6DADz;Z0
+R3
+R0
+w1789487051
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/datapath.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/datapath.v
+!i122 9
+L0 2 87
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/datapath.v|
+!i113 1
+R7
+R8
+R9
+vimm_extend
+R1
+!i10b 1
+!s100 JN=a@R?6]US8>FBgN0hSW1
+R2
+ImPWl;2Y>OT^8VGVjd_[7@2
+R3
+R0
+w1789486828
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/imm_extend.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/imm_extend.v
+!i122 8
+L0 3 38
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/imm_extend.v|
+!i113 1
+R7
+R8
+R9
+vinstr_mem
+R1
+!i10b 1
+!s100 ]f=IbBj`4CS?KZLZMPgI23
+R2
+IiKd02n>[5EU7Yo8RRREkf3
+R3
+R0
+w1789496889
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/instr_mem.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/instr_mem.v
+!i122 14
+L0 3 19
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/instr_mem.v|
+!i113 1
+R7
+R12
+R9
+vmain_decoder
+R10
+!i10b 1
+!s100 5?Y;?LYU>Fj>JWn>zUnbk2
+R2
+I61bKF_9V02<9BFczoS7GP2
+R3
+R0
+w1789486880
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/main_decoder.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/main_decoder.v
+!i122 7
+L0 3 42
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/main_decoder.v|
+!i113 1
+R7
+R8
+R9
+vmux2
+R10
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+IJO?KKJ7KMY5:ObcDVKQG_2
+R3
+R0
+R4
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/mux2.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/mux2.v
+!i122 6
+Z13 L0 4 9
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/mux2.v|
+!i113 1
+R7
+R8
+R9
+vmux3
+R10
+!i10b 1
+!s100 fShz_RzH66YN6G@4dH?@Y3
+R2
+I5@FF];1hdXkUDD;]C7fYo3
+R3
+R0
+R4
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/mux3.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/mux3.v
+!i122 5
+R13
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/mux3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/mux3.v|
+!i113 1
+R7
+R8
+R9
+vreg_file
+R10
+!i10b 1
+!s100 z2]InGk0[gjzdlc7_WWYI1
+R2
+INSP08:M5=T4e9R9^Yaz`j0
+R3
+R0
+R4
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/reg_file.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/reg_file.v
+!i122 4
+L0 8 27
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/reg_file.v|
+!i113 1
+R7
+R8
+R9
+vreset_ff
+R10
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+IYBehhWU=_[WKL[maO6[K43
+R3
+R0
+R4
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/reset_ff.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/reset_ff.v
+!i122 3
+L0 4 12
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/components/reset_ff.v|
+!i113 1
+R7
+R8
+R9
+vriscv_cpu
+R10
+!i10b 1
+!s100 KoZJjEfNljBWX@]C[7O651
+R2
+Ih5G[PzB2:I?E9K?cl1AGj0
+R3
+R0
+w1789488247
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/riscv_cpu.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/riscv_cpu.v
+!i122 1
+L0 3 24
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vt1_riscv_cpu
+R10
+!i10b 1
+!s100 fkYl^oh@hX68Qj@J2DK>=1
+R2
+IF2EaL92OTB>hS2nmVaGe71
+R3
+R0
+R4
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/t1_riscv_cpu.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/t1_riscv_cpu.v
+!i122 0
+L0 3 25
+R5
+r1
+!s85 0
+31
+R11
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/t1_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/code/t1_riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vtb_1b
+R1
+!i10b 1
+!s100 ba09IXhf39jkFN:mEeeH30
+R2
+I31n>VU2[7g@L;OT3>KX?<1
+R3
+R0
+w1789491766
+8/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/.test/tb_1b.v
+F/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/.test/tb_1b.v
+!i122 15
+L0 3 309
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/.test/tb_1b.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/.test|/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/.test/tb_1b.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work +incdir+/home/ilamehhh/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_risc_cpu/.test
+R9
